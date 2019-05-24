@@ -4,7 +4,7 @@
 
 .card {
   float: left;
-  box-shadow: 0px 0px 5px 1px #DCDCDC	;
+  box-shadow: 0px 0px 5px 1px #DCDCDC;
   width: 190px;
   height: 190px;
   margin: 15px;
@@ -15,10 +15,10 @@
   color: #989898;
   font-size: 12px;
   padding-top: 20px;
+  height: 30px;
 }
 
 .total-score {
-  font-size: 50px;
-  padding: 45px;
-  overflow: hidden;;
+  font-size: 45px;
+  padding: 30px;
 }
