@@ -1,0 +1,24 @@
+.car-total-score {
+  align-content: center;
+}
+
+.card {
+  float: left;
+  box-shadow: 0px 0px 5px 1px #DCDCDC	;
+  width: 190px;
+  height: 190px;
+  margin: 15px;
+  text-align: center;
+}
+
+.full-name {
+  color: #989898;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.total-score {
+  font-size: 50px;
+  padding: 45px;
+  overflow: hidden;;
+}
